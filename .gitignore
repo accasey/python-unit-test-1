@@ -2,3 +2,4 @@ venv
 # .vscode
 .mypy_cache
 *pycache*
+.pytest_cache
